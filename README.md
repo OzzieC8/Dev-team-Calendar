@@ -1,3 +1,3 @@
 # Dev-team-Calendar
-yo
-print("yo");
+Hello!
+This is a WIP for a calendar app? yes! Go team B.O.N.E.!
